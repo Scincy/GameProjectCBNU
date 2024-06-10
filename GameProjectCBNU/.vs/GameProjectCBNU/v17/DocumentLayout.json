@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GameProjectCBNU\\GameProjectCBNU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E1BFE9-63B7-491F-A5E9-026123FEAD5E}|GameProjectCBNU.vcxproj|C:\\GameProjectCBNU\\Bingo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bingo.c",
+              "DocumentMoniker": "C:\\GameProjectCBNU\\Bingo.c",
+              "RelativeDocumentMoniker": "..\\Bingo.c",
+              "ToolTip": "C:\\GameProjectCBNU\\Bingo.c",
+              "RelativeToolTip": "..\\Bingo.c",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAewPwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-10T10:02:12.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
