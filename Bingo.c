@@ -289,7 +289,7 @@ BingoWinner PlayGame() {
             return winner;
         }
 
-        printf("\nPress Enter to continue...");
+        printf("\n\033[1;0mPress Enter to continue...");
         getchar();
         getchar();  // To properly wait for the user input after a number input
         ResetScreen();
